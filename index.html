@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang = "en">
+
+<head>
+    <meta charset = "UTF-8">
+    <meta name = "viewport" content = "width=device-width, initial-scale=1.0">
+    <title>BBQ</title>
+    <link rel = "stylesheet" href = "style.css">
+</head>
+
+<div class = "header">
+    De Anza to UC Pathway
+</div>
+
+<body>
+    
+    <h1 style = "text-align:center;">
+        Welcome to your personal education planner!
+    </h1>
+
+    <p>
+        wee woo
+    </p>
+
+    <form class = form_center>
+        <ul>
+            <div class = container>
+                <li>
+                    <label for = "school"> Select School: </label> <br>
+                    <select id = "school"
+                            name = "school">
+                        <option>UC Berkeley</option>
+                        <option>UC Davis</option>
+                        <option>UC Irvine</option>
+                        <option>UCLA</option>
+                        <option>UC Merced</option>
+                        <option>UC Riverside</option>
+                        <option>UC San Diego</option>
+                        <option>UC Santa Barbara</option>
+                        <option>UC Santa Cruz</option>
+                    </select>
+                    <br>
+                </li>
+
+                <li>
+                    <label for = "major"> Major: </label> <br>
+                    <input list = "major">
+                    <datalist id = "major">
+                        <option value = "Computer Science">
+                        <option value = "Cognitive Science">
+                        <option value = "Data Science">
+                        <option value = "Engineering">
+                        <option value = "Other">
+                    </datalist>
+                    <br><br>
+                </li>
+            </div>
+
+            <input type = "button" 
+                   onclick = "window.location.href = 'choose_course.html';" 
+                   value = "Find Courses" 
+                   class = "button_style">
+
+        </ul>
+    </form>
+
+    <br>
+
+    <a href = "https://www.example.com"> Visit Example </a>
+
+</body>
+</html>
