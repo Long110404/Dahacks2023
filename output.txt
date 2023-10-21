@@ -1,0 +1,209 @@
+Articulation Agreement by Major
+Effective during the 2022-2023 Academic Year
+
+To: University of California, Berkeley
+2022-2023 General Catalog, Semester
+
+From: De Anza College
+2022-2023 General Catalog, Quarter
+
+Data Science, Lower Division B.A.
+
+COLLEGE OF LETTERS AND SCIENCE
+COLLEGE OF LETTERS AND SCIENCE
+
+COLLEGE OF LETTERS AND SCIENCE
+COLLEGE ADMISSION REQUIREMENTS FOR TRANSFER STUDENTS
+COLLEGE ADMISSION REQUIREMENTS FOR TRANSFER STUDENTS
+THIS MAJOR IS OFFERED BY THE COLLEGE OF LETTERS AND SCIENCE (L&S). 
+THIS MAJOR IS OFFERED BY THE COLLEGE OF LETTERS AND SCIENCE (L&S). 
+COLLEGE ADMISSION REQUIREMENTS FOR TRANSFER STUDENTS
+THIS MAJOR IS OFFERED BY THE COLLEGE OF LETTERS AND SCIENCE (L&S). 
+
+By the end of the spring term preceding fall enrollment at Berkeley, you must complete:
+
+1) The L&S Requirements in Reading & Composition, Quantitative Reasoning, and
+Foreign Language; OR 
+
+2) IGETC  
+
+Major Requirements: Complete as many lower division major requirements as possible. See details on
+preparation for this major below. 
+
+Primary selection criteria for admission, in general:
+- completion of L&S Requirements (or IGETC), plus
+- strength of academic preparation, and
+- grade point average. 
+
+For more information on admission to UC Berkeley:
+http://admissions.berkeley.edu 
+
+For more information on majors at UC Berkeley:
+Berkeley Academic Guide: http://guide.berkeley.edu
+
+PROGRAM
+PROGRAM
+
+PROGRAM
+Fall 2023 Admission For this Major: 
+Transfer students who select this major on their College of Letters and Science (L&S) application and are offered admission to 
+L&S will be directly admitted into this major. No additional steps are required to be admitted to the major
+
+If you are interested in this major, it is very important to select this major on your application. If you do not select this major on 
+your application, it may not be possible for you to declare this major at a later date. Complete as many lower-division major 
+requirements as possible prior to transfer. See details on course preparation for this major below.
+
+DATA SCIENCE is a new field of study that combines computational and inferential reasoning to draw conclusions based on data 
+about some aspect of the real world. Data scientists come from all walks of life, all areas of study, and all backgrounds. They 
+share an appreciation for the practical use of mathematical and scientific thinking and the power of computing to understand and 
+solve problems for business, research, and societal impact.
+
+The Data Science Major will equip students to draw sound conclusions from data in context, using knowledge of statistical 
+inference, computational processes, data management strategies, domain knowledge, and theory. Students will learn to carry out 
+analyses of data through the full cycle of the investigative process in scientific and practical contexts. Students will gain 
+understanding of the human and ethical implications of data analysis and integrate that knowledge in designing and carrying out 
+their work.
+
+We strongly encourage you to visit our website for prospective transfer students (link listed below) to learn more about 
+preparing for a major in Data Science at UC Berkeley.  Also, please reach out to us via the email address below if you have 
+specific questions about your academic path into data science. 
+
+For more information on this major:                                                                                                
+ds-advising@berkeley.edu                                                 
+https://data.berkeley.edu/academics/undergraduate-programs/data-science-major/information-prospective-transfer-students
+
+DATA/COMPSCI/INFO/STAT/C8 - Foundations of Data Science
+
+LOWER DIVISION PREREQUISITES
+
+LOWER DIVISION PREREQUISITES
+LOWER DIVISION PREREQUISITES
+
+MATH 1A - Calculus
+and
+MATH 1B -  Calculus
+
+MATH 54 - Linear Algebra and Differential Equations
+or 
+EECS 16A  - Designing Information Devices and Systems I (formerly known as Electrical Engineering EL ENG 16A)
+and
+EECS 16B - Designing Information Devices and Systems II (formerly known as Electrical Engineering EL ENG 16B)
+
+COMPSCI 61A  - The Structure and Interpretation of Computer Programs (preferred)
+or
+ENGIN 7 - Introduction to Computer Programming for Scientists and Engineers
+
+COMPSCI 61B - Data Structures
+
+A note about CS 61B / “Articulation subject to completion of a university course”
+Any course/s approved as comparable to COMPSCI 61B must include coverage of object-oriented programming, hashing, heaps, 
+priority queues and graphs, together with at least one programming assignment of 1000 or more lines of code. If any of these 
+topics are missing, the missing material may be acquired by taking a bridge course, COMPSCI 47B, at UC Berkeley. If you see 
+"Articulation subject to completion of a university course'" below the community college course, then in addition to completing 
+the community college course, you must complete COMPSCI 47B after enrollment at UC Berkeley.
+
+DATA​ C8 - ​Foundations of Data Science (4.00)
+Same-As: STAT​ C8, INFO​ C8, COMPSCI​ C8
+
+← No Course Articulated
+
+MATH​ 1A - ​Calculus (4.00)
+
+MATH​ 1B - ​Calculus (4.00)
+
+← MATH​ 1A - ​Calculus (5.00)
+
+MATH​ 1B - ​Calculus (5.00)
+
+--- And ---
+
+​Regular and honors courses may be combined to complete
+this series
+
+--- Or ---
+
+MATH​ 1AH - ​Calculus - HONORS (5.00)
+--- And ---
+MATH​ 1BH - ​Calculus - HONORS (5.00)
+
+​Regular and honors courses may be combined to complete
+this series
+
+← MATH​ 1B - ​Calculus (5.00)
+
+MATH​ 1C - ​Calculus (5.00)
+
+--- And ---
+
+​Regular and honors courses may be combined to complete
+this series
+
+--- Or ---
+
+MATH​ 1BH - ​Calculus - HONORS (5.00)
+--- And ---
+MATH​ 1CH - ​Calculus - HONORS (5.00)
+
+​Regular and honors courses may be combined to complete
+this series
+
+MATH​ 54 - ​Linear Algebra and Differential Equations (4.00)
+
+← MATH​ 2A - ​Differential Equations (5.00)
+
+MATH​ 2B - ​Linear Algebra (5.00)
+
+--- And ---
+
+​Regular and honors courses may be combined to complete
+this series
+
+--- Or ---
+
+MATH​ 2AH - ​Differential Equations - HONORS (5.00)
+
+--- And ---
+
+MATH​ 2BH - ​Linear Algebra - HONORS (5.00)
+
+​Regular and honors courses may be combined to complete
+this series
+
+EECS​ 16A - ​Designing Information Devices and Systems I (4.00) ← No Course Articulated
+EECS​ 16B - ​Designing Information Devices and Systems II (4.00) ← No Course Articulated
+
+--- And ---
+
+--- Or ---
+
+COMPSCI​ 61A - ​The Structure and Interpretation of Computer
+Programs (4.00)
+
+​Preferred course
+
+← No Course Articulated
+
+ENGIN​ 7 - ​Introduction to Computer Programming for Scientists and
+Engineers (MATLAB) (4.00)
+
+COMPSCI​ 61B - ​Data Structures (4.00)
+
+--- Or ---
+
+← No Course Articulated
+← CIS​ 22C - ​Data Abstraction and Structures (4.50)
+
+​Articulation subject to completion of a university course
+--- Or ---
+
+CIS​ 22CH - ​Data Abstraction and Structures - HONORS (4.50)
+​Articulation subject to completion of a university course
+--- Or ---
+
+CIS​ 26B - ​Advanced C Programming (4.50)
+
+​Articulation subject to completion of a university course
+
+END OF AGREEMENT
+
+
